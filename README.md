@@ -11,34 +11,8 @@ This project calculates the "value-for-money" score for real estate properties b
 - **Customizable**: Users can adjust weights for different scoring factors to suit their priorities.
 
 ## Table of Contents
-
-- [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/value-for-money-house.git
-    cd value-for-money-house
-    ```
-
-2. (Optional) Create a virtual environment:
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows, use venv\Scripts\activate
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
